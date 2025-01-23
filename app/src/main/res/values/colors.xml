@@ -1,5 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Colors -->
+    <color name="primary_black">#000000</color>
+    <color name="primary_green">#299e75</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary_black">#141414</color>
+    <color name="secondary_green">#167d59</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_blue">#0D47A1</color>
+    <color name="accent_pink">#880E4F</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#141414</color>
 </resources>
